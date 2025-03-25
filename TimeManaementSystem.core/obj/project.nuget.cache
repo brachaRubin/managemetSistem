@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4MYK6oU22NDGNvoSCZed38IIw7bmINEcpqGtnQ+6sKUHzFYqmPtrXNd1f75Qie9q0N5H3t+h1NP0X+Li/CyT7Q==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\User\\Desktop\\TimeManagementSystem\\TimeManaementSystem.core\\TimeManagementSystem.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

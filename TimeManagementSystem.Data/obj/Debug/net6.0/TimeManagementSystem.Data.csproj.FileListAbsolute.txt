@@ -1,0 +1,17 @@
+D:\Users\User\Desktop\TimeManagementSystem\TimeManagementSystem.Data\bin\Debug\net6.0\TimeManagementSystem.Data.deps.json
+D:\Users\User\Desktop\TimeManagementSystem\TimeManagementSystem.Data\bin\Debug\net6.0\TimeManagementSystem.Data.runtimeconfig.json
+D:\Users\User\Desktop\TimeManagementSystem\TimeManagementSystem.Data\bin\Debug\net6.0\TimeManagementSystem.Data.dll
+D:\Users\User\Desktop\TimeManagementSystem\TimeManagementSystem.Data\bin\Debug\net6.0\TimeManagementSystem.Data.pdb
+D:\Users\User\Desktop\TimeManagementSystem\TimeManagementSystem.Data\obj\Debug\net6.0\TimeManagementSystem.Data.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\TimeManagementSystem\TimeManagementSystem.Data\obj\Debug\net6.0\TimeManagementSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\TimeManagementSystem\TimeManagementSystem.Data\obj\Debug\net6.0\TimeManagementSystem.Data.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\TimeManagementSystem\TimeManagementSystem.Data\obj\Debug\net6.0\TimeManagementSystem.Data.AssemblyInfo.cs
+D:\Users\User\Desktop\TimeManagementSystem\TimeManagementSystem.Data\obj\Debug\net6.0\TimeManagementSystem.Data.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\TimeManagementSystem\TimeManagementSystem.Data\obj\Debug\net6.0\TimeManagementSystem.Data.csproj.CopyComplete
+D:\Users\User\Desktop\TimeManagementSystem\TimeManagementSystem.Data\obj\Debug\net6.0\TimeManagementSystem.Data.dll
+D:\Users\User\Desktop\TimeManagementSystem\TimeManagementSystem.Data\obj\Debug\net6.0\refint\TimeManagementSystem.Data.dll
+D:\Users\User\Desktop\TimeManagementSystem\TimeManagementSystem.Data\obj\Debug\net6.0\TimeManagementSystem.Data.pdb
+D:\Users\User\Desktop\TimeManagementSystem\TimeManagementSystem.Data\obj\Debug\net6.0\TimeManagementSystem.Data.genruntimeconfig.cache
+D:\Users\User\Desktop\TimeManagementSystem\TimeManagementSystem.Data\obj\Debug\net6.0\ref\TimeManagementSystem.Data.dll
+D:\Users\User\Desktop\TimeManagementSystem\TimeManagementSystem.Data\bin\Debug\net6.0\TimeManagementSystem.Core.dll
+D:\Users\User\Desktop\TimeManagementSystem\TimeManagementSystem.Data\bin\Debug\net6.0\TimeManagementSystem.Core.pdb

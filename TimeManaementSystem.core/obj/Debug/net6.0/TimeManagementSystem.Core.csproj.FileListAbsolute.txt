@@ -1,0 +1,12 @@
+D:\Users\User\Desktop\TimeManagementSystem\TimeManaementSystem.core\bin\Debug\net6.0\TimeManagementSystem.Core.deps.json
+D:\Users\User\Desktop\TimeManagementSystem\TimeManaementSystem.core\bin\Debug\net6.0\TimeManagementSystem.Core.dll
+D:\Users\User\Desktop\TimeManagementSystem\TimeManaementSystem.core\bin\Debug\net6.0\TimeManagementSystem.Core.pdb
+D:\Users\User\Desktop\TimeManagementSystem\TimeManaementSystem.core\obj\Debug\net6.0\TimeManagementSystem.Core.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\TimeManagementSystem\TimeManaementSystem.core\obj\Debug\net6.0\TimeManagementSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\TimeManagementSystem\TimeManaementSystem.core\obj\Debug\net6.0\TimeManagementSystem.Core.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\TimeManagementSystem\TimeManaementSystem.core\obj\Debug\net6.0\TimeManagementSystem.Core.AssemblyInfo.cs
+D:\Users\User\Desktop\TimeManagementSystem\TimeManaementSystem.core\obj\Debug\net6.0\TimeManagementSystem.Core.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\TimeManagementSystem\TimeManaementSystem.core\obj\Debug\net6.0\TimeManagementSystem.Core.dll
+D:\Users\User\Desktop\TimeManagementSystem\TimeManaementSystem.core\obj\Debug\net6.0\refint\TimeManagementSystem.Core.dll
+D:\Users\User\Desktop\TimeManagementSystem\TimeManaementSystem.core\obj\Debug\net6.0\TimeManagementSystem.Core.pdb
+D:\Users\User\Desktop\TimeManagementSystem\TimeManaementSystem.core\obj\Debug\net6.0\ref\TimeManagementSystem.Core.dll
