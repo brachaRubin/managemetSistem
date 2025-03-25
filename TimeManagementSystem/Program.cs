@@ -12,6 +12,7 @@ using TimeManagementSystem.Core.Repositories;
 using TimeManagementSystem.Data;
 using TimeManagementSystem.Data.Repositories;
 using TimeManagementSystem.Service;
+using NLog;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -76,7 +77,6 @@ builder.Services.AddAuthentication(options =>
             IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["JWT:Key"]))
         };
     });
-NLog.LogFactory logFactory = NLog.LogManager.LoadConfiguration("C:\\Files / logfile.txt");
 
 var app = builder.Build();
 

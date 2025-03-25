@@ -14,17 +14,17 @@ namespace TimeManagementSystem.Api.Middlewares
 
         public async Task Invoke(HttpContext context)
         {
-            logger.Info($"Request {context.Request.Method} started");
+            logger.Info($"The Request {context.Request.Method} is starting");
             try
             {
                 await _next(context);
             }
             catch (Exception ex)
             {
-                logger.Error(ex, $"failed! {ex.Message}");
+                logger.Error(ex, $"its failed! {ex.Message}");
             }
 
-            logger.Info($"status: {context.Response.StatusCode}");
+            logger.Info($"The status is: {context.Response.StatusCode}");
         }
     }
 }
